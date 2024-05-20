@@ -1,3 +1,3 @@
-Face Recognition Program based on FaceNet-Pytorch
+# Face Recognition System based on FaceNet-Pytorch
 
-In Progress
+In Progress ...
