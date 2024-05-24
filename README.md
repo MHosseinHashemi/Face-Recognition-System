@@ -16,6 +16,7 @@ Face recognition technology is increasingly being used in various applications s
 
 **Face Detection** and **Face Recognition** are distinct yet complementary processes in the realm of computer vision and biometrics:
 
+
 - **Face Detection:** 
     - **Objective:** To identify and locate faces within an image or video.
     - **Functionality:** It involves detecting the presence of faces and drawing bounding boxes around them. It does not involve identifying or recognizing who the faces belong to.
