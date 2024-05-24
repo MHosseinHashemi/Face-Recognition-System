@@ -1,4 +1,3 @@
-```markdown
 # Face Recognition System
 
 Welcome to the Face Recognition System repository! This project aims to implement a robust face recognition system using deep learning techniques. The core functionality includes face detection, feature extraction, and identification of individuals based on their facial features.
@@ -33,4 +32,3 @@ This project focuses primarily on the **face recognition** aspect, aiming to acc
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
-```
