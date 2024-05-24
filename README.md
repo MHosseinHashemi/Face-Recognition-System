@@ -12,9 +12,9 @@ Welcome to the Face Recognition System repository! This project aims to implemen
 
 Face recognition technology is increasingly being used in various applications such as security, authentication, and social media. This project leverages state-of-the-art machine learning models to provide accurate and efficient face recognition capabilities.
 
-#### Face Detection vs. Face Recognition
+### Face Detection vs. Face Recognition
 
-**Face Detection** and **Face Recognition** are distinct yet complementary processes in the realm of computer vision and biometrics:
+Face Detection and Face Recognition are distinct yet complementary processes in the realm of computer vision and biometrics:
 
 
 - **Face Detection:** 
