@@ -1,6 +1,6 @@
 # Face Recognition System
 
-Welcome to the Face Recognition System repository! This project aims to implement a robust face recognition system using deep learning techniques. The core functionality includes face detection, feature extraction, and identification of individuals based on their facial features.
+This project aims to implement a robust face recognition system using MTCNN (Multi-Task Cascaded Convolutional Neural Networks) and Face-Net from Pytorch. The core functionality includes face detection, feature extraction, and identification of individuals based on their facial features.
 
 ## Table of Contents
 
