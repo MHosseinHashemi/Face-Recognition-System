@@ -6,7 +6,6 @@ This project aims to implement a robust face recognition system using MTCNN (Mul
 
 - [Introduction](#introduction)
 - [Face Detection vs. Face Recognition](#face-detection-vs-face-recognition)
-- [License](#license)
 
 ## Introduction
 
