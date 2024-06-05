@@ -29,7 +29,7 @@ Face Detection and Face Recognition are distinct yet complementary processes in 
 This project focuses primarily on the **face recognition** aspect, aiming to accurately identify individuals based on their facial features.
 
 #### To Do
-- Depth analysis (Prevent detecting faces from pics and etc) 
-- Perspective analysis (Prevent detecting faces from pics and etc) 
-- Facial Expression analysis (To prevent forced unlock situations)
+- Depth analysis 
+- Perspective analysis 
+- Facial Expression analysis 
 
